@@ -1,0 +1,307 @@
+2025-05-07 13:39:56,391 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 13:39:56.391288
+2025-05-07 13:39:56,391 - gmail_auto_response - INFO - Running in TEST mode
+2025-05-07 13:39:56,394 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 13:39:56,395 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 13:40:01,134 - gmail_auto_response - INFO - Retrieved 30 recent emails
+2025-05-07 13:40:01,134 - gmail_auto_response - DEBUG - Email 196ac7200efc31a5 classified as: meeting
+2025-05-07 13:40:01,134 - gmail_auto_response - INFO - Preparing to respond to: workspace-noreply@google.com using meeting template
+2025-05-07 13:40:01,134 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to workspace-noreply@google.com
+2025-05-07 13:40:01,134 - gmail_auto_response - DEBUG - Email 196ac710e1722405 classified as: general
+2025-05-07 13:40:01,134 - gmail_auto_response - INFO - Preparing to respond to: no-reply@trailblazercommunitygroups.com using general template
+2025-05-07 13:40:01,134 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to no-reply@trailblazercommunitygroups.com
+2025-05-07 13:40:01,134 - gmail_auto_response - DEBUG - Email 196ac6bf538548b7 classified as: general
+2025-05-07 13:40:01,134 - gmail_auto_response - INFO - Preparing to respond to: no-reply@q4inc.com using general template
+2025-05-07 13:40:01,134 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to no-reply@q4inc.com
+2025-05-07 13:40:01,135 - gmail_auto_response - DEBUG - Email 196ac6a45cc845f1 classified as: meeting
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - Preparing to respond to: josephine.nguyen@hover.to using meeting template
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to josephine.nguyen@hover.to
+2025-05-07 13:40:01,135 - gmail_auto_response - DEBUG - Email 196ac66058665b09 classified as: general
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - Preparing to respond to: team@email.anthropic.com using general template
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to team@email.anthropic.com
+2025-05-07 13:40:01,135 - gmail_auto_response - DEBUG - Email 196ac5120b179835 classified as: general
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - Preparing to respond to: Omar.Carlos@waevinc.com using general template
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to Omar.Carlos@waevinc.com
+2025-05-07 13:40:01,135 - gmail_auto_response - DEBUG - Email 196abf2808a8fded classified as: general
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - Preparing to respond to: adrien@sdentals.com using general template
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to adrien@sdentals.com
+2025-05-07 13:40:01,135 - gmail_auto_response - DEBUG - Email 196abd077cd598f5 classified as: sales
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - Preparing to respond to: fresh-funding-and-products@f6s.com using sales template
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - TEST MODE: Would have sent sales template to fresh-funding-and-products@f6s.com
+2025-05-07 13:40:01,135 - gmail_auto_response - DEBUG - Email 196abcd728af6c09 classified as: meeting
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - Preparing to respond to: admin@vagaro.com using meeting template
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to admin@vagaro.com
+2025-05-07 13:40:01,135 - gmail_auto_response - DEBUG - Email 196abca67105d53e classified as: sales
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - Preparing to respond to: michael.tsai@sdentals.com using sales template
+2025-05-07 13:40:01,135 - gmail_auto_response - INFO - TEST MODE: Would have sent sales template to michael.tsai@sdentals.com
+2025-05-07 13:40:01,135 - gmail_auto_response - DEBUG - Skipping 196abc7554866d50: from excluded domain anablock.com
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Skipping 196abc7539fa6619: from excluded domain anablock.com
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Email 196abbf8381e8487 classified as: general
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - Preparing to respond to: my.tran@sdentals.com using general template
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to my.tran@sdentals.com
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Email 196abb120e3df3f7 classified as: sales
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - Preparing to respond to: noreply@hello.prowritingaid.com using sales template
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - TEST MODE: Would have sent sales template to noreply@hello.prowritingaid.com
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Email 196ab727cc8b0aff classified as: general
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - Preparing to respond to: adrien@sdentals.com using general template
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to adrien@sdentals.com
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Email 196ab5c34d567d00 classified as: general
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - Preparing to respond to: pankaj@steneral.com using general template
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to pankaj@steneral.com
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Email 196ab53f6c928254 classified as: meeting
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - Preparing to respond to: josephine.nguyen@hover.to using meeting template
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to josephine.nguyen@hover.to
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Email 196ab5190a6cf61a classified as: general
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - Preparing to respond to: mongodbteam@messages.mongodb.com using general template
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to mongodbteam@messages.mongodb.com
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Email 196ab1d82d84e184 classified as: general
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - Preparing to respond to: SeasonPass@epicpassmail.com using general template
+2025-05-07 13:40:01,136 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to SeasonPass@epicpassmail.com
+2025-05-07 13:40:01,136 - gmail_auto_response - DEBUG - Email 196ab0df42bb6b8a classified as: general
+2025-05-07 13:40:01,137 - gmail_auto_response - INFO - Preparing to respond to: noreply@jotform.com using general template
+2025-05-07 13:40:01,137 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to noreply@jotform.com
+2025-05-07 13:40:01,137 - gmail_auto_response - DEBUG - Email 196ab0d417a67c5c classified as: meeting
+2025-05-07 13:40:01,137 - gmail_auto_response - INFO - Preparing to respond to: noreply@teslainsuranceservices.com using meeting template
+2025-05-07 13:40:01,137 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to noreply@teslainsuranceservices.com
+2025-05-07 13:40:01,137 - gmail_auto_response - DEBUG - Email 196aaae33031f371 classified as: general
+2025-05-07 13:40:01,137 - gmail_auto_response - INFO - Preparing to respond to: help@gifts.gonift.com using general template
+2025-05-07 13:40:01,137 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to help@gifts.gonift.com
+2025-05-07 13:40:01,137 - gmail_auto_response - INFO - Reached maximum responses per run (20)
+2025-05-07 13:40:01,137 - gmail_auto_response - INFO - Auto-response check complete. Would have sent 20 auto-responses.
+2025-05-07 13:42:24,273 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 13:42:24.273295
+2025-05-07 13:42:24,273 - gmail_auto_response - INFO - Running in TEST mode
+2025-05-07 13:42:24,274 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 13:42:24,275 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 13:42:29,588 - gmail_auto_response - INFO - Retrieved 30 recent emails
+2025-05-07 13:42:29,591 - gmail_auto_response - DEBUG - Email 196ac7200efc31a5 classified as: meeting
+2025-05-07 13:42:29,592 - gmail_auto_response - INFO - Preparing to respond to: workspace-noreply@google.com using meeting template
+2025-05-07 13:42:29,592 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to workspace-noreply@google.com
+2025-05-07 13:42:29,593 - gmail_auto_response - DEBUG - Email 196ac710e1722405 classified as: general
+2025-05-07 13:42:29,593 - gmail_auto_response - INFO - Preparing to respond to: no-reply@trailblazercommunitygroups.com using general template
+2025-05-07 13:42:29,593 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to no-reply@trailblazercommunitygroups.com
+2025-05-07 13:42:29,596 - gmail_auto_response - DEBUG - Email 196ac6bf538548b7 classified as: general
+2025-05-07 13:42:29,597 - gmail_auto_response - INFO - Preparing to respond to: no-reply@q4inc.com using general template
+2025-05-07 13:42:29,597 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to no-reply@q4inc.com
+2025-05-07 13:42:29,598 - gmail_auto_response - DEBUG - Email 196ac6a45cc845f1 classified as: meeting
+2025-05-07 13:42:29,598 - gmail_auto_response - INFO - Preparing to respond to: josephine.nguyen@hover.to using meeting template
+2025-05-07 13:42:29,598 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to josephine.nguyen@hover.to
+2025-05-07 13:42:29,598 - gmail_auto_response - DEBUG - Email 196ac66058665b09 classified as: general
+2025-05-07 13:42:29,598 - gmail_auto_response - INFO - Preparing to respond to: team@email.anthropic.com using general template
+2025-05-07 13:42:29,599 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to team@email.anthropic.com
+2025-05-07 13:42:29,599 - gmail_auto_response - DEBUG - Email 196ac5120b179835 classified as: general
+2025-05-07 13:42:29,599 - gmail_auto_response - INFO - Preparing to respond to: Omar.Carlos@waevinc.com using general template
+2025-05-07 13:42:29,599 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to Omar.Carlos@waevinc.com
+2025-05-07 13:42:29,600 - gmail_auto_response - DEBUG - Email 196abf2808a8fded classified as: general
+2025-05-07 13:42:29,600 - gmail_auto_response - INFO - Preparing to respond to: adrien@sdentals.com using general template
+2025-05-07 13:42:29,600 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to adrien@sdentals.com
+2025-05-07 13:42:29,600 - gmail_auto_response - DEBUG - Email 196abd077cd598f5 classified as: sales
+2025-05-07 13:42:29,601 - gmail_auto_response - INFO - Preparing to respond to: fresh-funding-and-products@f6s.com using sales template
+2025-05-07 13:42:29,601 - gmail_auto_response - INFO - TEST MODE: Would have sent sales template to fresh-funding-and-products@f6s.com
+2025-05-07 13:42:29,601 - gmail_auto_response - DEBUG - Email 196abcd728af6c09 classified as: meeting
+2025-05-07 13:42:29,601 - gmail_auto_response - INFO - Preparing to respond to: admin@vagaro.com using meeting template
+2025-05-07 13:42:29,601 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to admin@vagaro.com
+2025-05-07 13:42:29,602 - gmail_auto_response - DEBUG - Email 196abca67105d53e classified as: sales
+2025-05-07 13:42:29,602 - gmail_auto_response - INFO - Preparing to respond to: michael.tsai@sdentals.com using sales template
+2025-05-07 13:42:29,602 - gmail_auto_response - INFO - TEST MODE: Would have sent sales template to michael.tsai@sdentals.com
+2025-05-07 13:42:29,602 - gmail_auto_response - DEBUG - Skipping 196abc7554866d50: from excluded domain anablock.com
+2025-05-07 13:42:29,603 - gmail_auto_response - DEBUG - Skipping 196abc7539fa6619: from excluded domain anablock.com
+2025-05-07 13:42:29,603 - gmail_auto_response - DEBUG - Email 196abbf8381e8487 classified as: general
+2025-05-07 13:42:29,603 - gmail_auto_response - INFO - Preparing to respond to: my.tran@sdentals.com using general template
+2025-05-07 13:42:29,603 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to my.tran@sdentals.com
+2025-05-07 13:42:29,603 - gmail_auto_response - DEBUG - Email 196abb120e3df3f7 classified as: sales
+2025-05-07 13:42:29,604 - gmail_auto_response - INFO - Preparing to respond to: noreply@hello.prowritingaid.com using sales template
+2025-05-07 13:42:29,604 - gmail_auto_response - INFO - TEST MODE: Would have sent sales template to noreply@hello.prowritingaid.com
+2025-05-07 13:42:29,604 - gmail_auto_response - DEBUG - Email 196ab727cc8b0aff classified as: general
+2025-05-07 13:42:29,604 - gmail_auto_response - INFO - Preparing to respond to: adrien@sdentals.com using general template
+2025-05-07 13:42:29,604 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to adrien@sdentals.com
+2025-05-07 13:42:29,605 - gmail_auto_response - DEBUG - Email 196ab5c34d567d00 classified as: general
+2025-05-07 13:42:29,605 - gmail_auto_response - INFO - Preparing to respond to: pankaj@steneral.com using general template
+2025-05-07 13:42:29,605 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to pankaj@steneral.com
+2025-05-07 13:42:29,605 - gmail_auto_response - DEBUG - Email 196ab53f6c928254 classified as: meeting
+2025-05-07 13:42:29,606 - gmail_auto_response - INFO - Preparing to respond to: josephine.nguyen@hover.to using meeting template
+2025-05-07 13:42:29,606 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to josephine.nguyen@hover.to
+2025-05-07 13:42:29,606 - gmail_auto_response - DEBUG - Email 196ab5190a6cf61a classified as: general
+2025-05-07 13:42:29,606 - gmail_auto_response - INFO - Preparing to respond to: mongodbteam@messages.mongodb.com using general template
+2025-05-07 13:42:29,606 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to mongodbteam@messages.mongodb.com
+2025-05-07 13:42:29,606 - gmail_auto_response - DEBUG - Email 196ab1d82d84e184 classified as: general
+2025-05-07 13:42:29,606 - gmail_auto_response - INFO - Preparing to respond to: SeasonPass@epicpassmail.com using general template
+2025-05-07 13:42:29,606 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to SeasonPass@epicpassmail.com
+2025-05-07 13:42:29,607 - gmail_auto_response - DEBUG - Email 196ab0df42bb6b8a classified as: general
+2025-05-07 13:42:29,607 - gmail_auto_response - INFO - Preparing to respond to: noreply@jotform.com using general template
+2025-05-07 13:42:29,607 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to noreply@jotform.com
+2025-05-07 13:42:29,607 - gmail_auto_response - DEBUG - Email 196ab0d417a67c5c classified as: meeting
+2025-05-07 13:42:29,607 - gmail_auto_response - INFO - Preparing to respond to: noreply@teslainsuranceservices.com using meeting template
+2025-05-07 13:42:29,607 - gmail_auto_response - INFO - TEST MODE: Would have sent meeting template to noreply@teslainsuranceservices.com
+2025-05-07 13:42:29,607 - gmail_auto_response - DEBUG - Email 196aaae33031f371 classified as: general
+2025-05-07 13:42:29,607 - gmail_auto_response - INFO - Preparing to respond to: help@gifts.gonift.com using general template
+2025-05-07 13:42:29,607 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to help@gifts.gonift.com
+2025-05-07 13:42:29,607 - gmail_auto_response - INFO - Reached maximum responses per run (20)
+2025-05-07 13:42:29,608 - gmail_auto_response - INFO - Auto-response check complete. Would have sent 20 auto-responses.
+2025-05-07 13:46:13,643 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 13:46:13,645 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 13:46:30,206 - gmail_auto_response - INFO - Email sent, message ID: 196ac7ff9546aa33
+2025-05-07 13:46:30,208 - gmail_test_single - INFO - Test email sent successfully! Message ID: 196ac7ff9546aa33
+2025-05-07 13:46:30,208 - gmail_test_single - INFO - Tracking ID: 69880139-703a-4f9a-9939-89a9dc1bd1b9
+2025-05-07 13:46:30,213 - gmail_test_single - INFO - Response recorded in database for analytics tracking
+2025-05-07 13:55:52,749 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 13:55:52,752 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 13:56:30,573 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 13:56:30,577 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 13:56:36,141 - gmail_auto_response - INFO - Email sent, message ID: 196ac8937abe89f7
+2025-05-07 13:56:36,142 - gmail_test_single - INFO - Test email sent successfully! Message ID: 196ac8937abe89f7
+2025-05-07 13:56:36,143 - gmail_test_single - INFO - Tracking ID: 735fc978-2d49-4dc7-904c-1fbbf6448fd2
+2025-05-07 13:56:36,147 - gmail_test_single - INFO - Response recorded in database for analytics tracking
+2025-05-07 13:58:42,104 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 13:58:42.104468
+2025-05-07 13:58:42,104 - gmail_auto_response - INFO - Running in PRODUCTION mode
+2025-05-07 13:58:42,106 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 13:58:42,107 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 13:58:46,699 - gmail_auto_response - INFO - Retrieved 30 recent emails
+2025-05-07 13:58:46,701 - gmail_auto_response - INFO - Preparing to respond to: DoNotReplyUS@welcome.americanexpress.com using general template
+2025-05-07 13:58:47,088 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b36d461d69
+2025-05-07 13:58:47,089 - gmail_auto_response - INFO - Auto-responded to DoNotReplyUS@welcome.americanexpress.com using general template
+2025-05-07 13:58:47,089 - gmail_auto_response - INFO - Preparing to respond to: ads-noreply@google.com using general template
+2025-05-07 13:58:47,479 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b390de86a2
+2025-05-07 13:58:47,483 - gmail_auto_response - INFO - Auto-responded to ads-noreply@google.com using general template
+2025-05-07 13:58:47,484 - gmail_auto_response - INFO - Preparing to respond to: publishing@email.mckinsey.com using general template
+2025-05-07 13:58:48,065 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b391bca584
+2025-05-07 13:58:48,068 - gmail_auto_response - INFO - Auto-responded to publishing@email.mckinsey.com using general template
+2025-05-07 13:58:48,068 - gmail_auto_response - INFO - Preparing to respond to: workspace-noreply@google.com using meeting template
+2025-05-07 13:58:49,008 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b3c53d0bed
+2025-05-07 13:58:49,009 - gmail_auto_response - INFO - Auto-responded to workspace-noreply@google.com using meeting template
+2025-05-07 13:58:49,009 - gmail_auto_response - INFO - Preparing to respond to: no-reply@trailblazercommunitygroups.com using general template
+2025-05-07 13:58:49,750 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b3f497e568
+2025-05-07 13:58:49,755 - gmail_auto_response - INFO - Auto-responded to no-reply@trailblazercommunitygroups.com using general template
+2025-05-07 13:58:49,756 - gmail_auto_response - INFO - Preparing to respond to: no-reply@q4inc.com using general template
+2025-05-07 13:58:50,494 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b43b3e30dd
+2025-05-07 13:58:50,498 - gmail_auto_response - INFO - Auto-responded to no-reply@q4inc.com using general template
+2025-05-07 13:58:50,499 - gmail_auto_response - INFO - Preparing to respond to: josephine.nguyen@hover.to using meeting template
+2025-05-07 13:58:51,297 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b455888e08
+2025-05-07 13:58:51,302 - gmail_auto_response - INFO - Auto-responded to josephine.nguyen@hover.to using meeting template
+2025-05-07 13:58:51,304 - gmail_auto_response - INFO - Preparing to respond to: team@email.anthropic.com using general template
+2025-05-07 13:58:51,861 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b489861a5c
+2025-05-07 13:58:51,864 - gmail_auto_response - INFO - Auto-responded to team@email.anthropic.com using general template
+2025-05-07 13:58:51,864 - gmail_auto_response - INFO - Preparing to respond to: Omar.Carlos@waevinc.com using general template
+2025-05-07 13:58:52,784 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b4a055ad8c
+2025-05-07 13:58:52,794 - gmail_auto_response - INFO - Auto-responded to Omar.Carlos@waevinc.com using general template
+2025-05-07 13:58:52,795 - gmail_auto_response - INFO - Preparing to respond to: adrien@sdentals.com using general template
+2025-05-07 13:58:53,458 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b4fd53a4e4
+2025-05-07 13:58:53,461 - gmail_auto_response - INFO - Auto-responded to adrien@sdentals.com using general template
+2025-05-07 13:58:53,461 - gmail_auto_response - INFO - Preparing to respond to: fresh-funding-and-products@f6s.com using sales template
+2025-05-07 13:58:53,849 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b51acbffb8
+2025-05-07 13:58:53,850 - gmail_auto_response - INFO - Auto-responded to fresh-funding-and-products@f6s.com using sales template
+2025-05-07 13:58:53,851 - gmail_auto_response - INFO - Preparing to respond to: admin@vagaro.com using meeting template
+2025-05-07 13:58:54,415 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b53d94bd23
+2025-05-07 13:58:54,419 - gmail_auto_response - INFO - Auto-responded to admin@vagaro.com using meeting template
+2025-05-07 13:58:54,419 - gmail_auto_response - INFO - Preparing to respond to: michael.tsai@sdentals.com using sales template
+2025-05-07 13:58:55,305 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b541e7210b
+2025-05-07 13:58:55,307 - gmail_auto_response - INFO - Auto-responded to michael.tsai@sdentals.com using sales template
+2025-05-07 13:58:55,308 - gmail_auto_response - INFO - Preparing to respond to: my.tran@sdentals.com using general template
+2025-05-07 13:58:56,476 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b596ec6a4a
+2025-05-07 13:58:56,478 - gmail_auto_response - INFO - Auto-responded to my.tran@sdentals.com using general template
+2025-05-07 13:58:56,480 - gmail_auto_response - INFO - Preparing to respond to: noreply@hello.prowritingaid.com using sales template
+2025-05-07 13:58:57,296 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b5dc8a3e04
+2025-05-07 13:58:57,299 - gmail_auto_response - INFO - Auto-responded to noreply@hello.prowritingaid.com using sales template
+2025-05-07 13:58:57,308 - gmail_auto_response - INFO - Preparing to respond to: adrien@sdentals.com using general template
+2025-05-07 13:58:58,137 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b6017870d3
+2025-05-07 13:58:58,139 - gmail_auto_response - INFO - Auto-responded to adrien@sdentals.com using general template
+2025-05-07 13:58:58,140 - gmail_auto_response - INFO - Preparing to respond to: pankaj@steneral.com using general template
+2025-05-07 13:58:58,832 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b628477971
+2025-05-07 13:58:58,835 - gmail_auto_response - INFO - Auto-responded to pankaj@steneral.com using general template
+2025-05-07 13:58:58,835 - gmail_auto_response - INFO - Preparing to respond to: josephine.nguyen@hover.to using meeting template
+2025-05-07 13:59:00,110 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b668ea1554
+2025-05-07 13:59:00,115 - gmail_auto_response - INFO - Auto-responded to josephine.nguyen@hover.to using meeting template
+2025-05-07 13:59:00,115 - gmail_auto_response - INFO - Preparing to respond to: mongodbteam@messages.mongodb.com using general template
+2025-05-07 13:59:00,955 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b6aed67a93
+2025-05-07 13:59:00,958 - gmail_auto_response - INFO - Auto-responded to mongodbteam@messages.mongodb.com using general template
+2025-05-07 13:59:00,958 - gmail_auto_response - INFO - Preparing to respond to: SeasonPass@epicpassmail.com using general template
+2025-05-07 13:59:01,355 - gmail_auto_response - INFO - Email sent, message ID: 196ac8b6f3a43f67
+2025-05-07 13:59:01,358 - gmail_auto_response - INFO - Auto-responded to SeasonPass@epicpassmail.com using general template
+2025-05-07 13:59:01,358 - gmail_auto_response - INFO - Reached maximum responses per run (20)
+2025-05-07 13:59:01,358 - gmail_auto_response - INFO - Auto-response check complete. Sent 20 auto-responses.
+2025-05-07 14:09:32,967 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 14:09:32.967760
+2025-05-07 14:09:32,967 - gmail_auto_response - INFO - Running in TEST mode
+2025-05-07 14:09:32,969 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 14:09:32,970 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 14:09:41,471 - gmail_auto_response - INFO - Retrieved 30 recent emails
+2025-05-07 14:09:41,473 - gmail_auto_response - DEBUG - Email 196ac8eb9d23f425 classified as: general
+2025-05-07 14:09:41,474 - gmail_auto_response - INFO - Preparing to respond to: givingcomms@our.berkeley.edu using general template
+2025-05-07 14:09:41,474 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to givingcomms@our.berkeley.edu
+2025-05-07 14:09:41,474 - gmail_auto_response - DEBUG - Email 196ac8d3309868c3 classified as: general
+2025-05-07 14:09:41,475 - gmail_auto_response - INFO - Preparing to respond to: Saucony@email.saucony.com using general template
+2025-05-07 14:09:41,475 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to Saucony@email.saucony.com
+2025-05-07 14:09:41,476 - gmail_auto_response - DEBUG - Skipping 196ac8b7fafc558e: notification/no-reply address (mailer-daemon)
+2025-05-07 14:09:41,476 - gmail_auto_response - DEBUG - Skipping 196ac8b7bc86c41f: notification/no-reply address (postmaster)
+2025-05-07 14:09:41,476 - gmail_auto_response - DEBUG - Skipping 196ac8b6912eabcd: notification/no-reply address (mailer-daemon)
+2025-05-07 14:09:41,477 - gmail_auto_response - DEBUG - Skipping 196ac8b5024752e6: notification/no-reply address (mailer-daemon)
+2025-05-07 14:09:41,477 - gmail_auto_response - DEBUG - Skipping 196ac8b4ffe6b63e: notification/no-reply address (mailer-daemon)
+2025-05-07 14:09:41,479 - gmail_auto_response - DEBUG - Skipping 196ac8ad62ca67bf: already responded
+2025-05-07 14:09:41,479 - gmail_auto_response - DEBUG - Skipping 196ac87a1387bbaa: already responded
+2025-05-07 14:09:41,480 - gmail_auto_response - DEBUG - Skipping 196ac7d3de90d7fd: already responded
+2025-05-07 14:09:41,480 - gmail_auto_response - DEBUG - Skipping 196ac7200efc31a5: already responded
+2025-05-07 14:09:41,481 - gmail_auto_response - DEBUG - Skipping 196ac710e1722405: already responded
+2025-05-07 14:09:41,481 - gmail_auto_response - DEBUG - Skipping 196ac6bf538548b7: already responded
+2025-05-07 14:09:41,481 - gmail_auto_response - DEBUG - Skipping 196ac6a45cc845f1: already responded
+2025-05-07 14:09:41,481 - gmail_auto_response - DEBUG - Skipping 196ac66058665b09: already responded
+2025-05-07 14:09:41,482 - gmail_auto_response - DEBUG - Skipping 196ac5120b179835: already responded
+2025-05-07 14:09:41,482 - gmail_auto_response - DEBUG - Skipping 196abf2808a8fded: already responded
+2025-05-07 14:09:41,482 - gmail_auto_response - DEBUG - Skipping 196abd077cd598f5: already responded
+2025-05-07 14:09:41,482 - gmail_auto_response - DEBUG - Skipping 196abcd728af6c09: already responded
+2025-05-07 14:09:41,483 - gmail_auto_response - DEBUG - Skipping 196abca67105d53e: already responded
+2025-05-07 14:09:41,483 - gmail_auto_response - DEBUG - Skipping 196abc7554866d50: from excluded domain anablock.com
+2025-05-07 14:09:41,483 - gmail_auto_response - DEBUG - Skipping 196abc7539fa6619: from excluded domain anablock.com
+2025-05-07 14:09:41,483 - gmail_auto_response - DEBUG - Skipping 196abbf8381e8487: already responded
+2025-05-07 14:09:41,483 - gmail_auto_response - DEBUG - Skipping 196abb120e3df3f7: already responded
+2025-05-07 14:09:41,484 - gmail_auto_response - DEBUG - Skipping 196ab727cc8b0aff: already responded
+2025-05-07 14:09:41,484 - gmail_auto_response - DEBUG - Skipping 196ab5c34d567d00: already responded
+2025-05-07 14:09:41,485 - gmail_auto_response - DEBUG - Skipping 196ab53f6c928254: already responded
+2025-05-07 14:09:41,485 - gmail_auto_response - DEBUG - Skipping 196ab5190a6cf61a: already responded
+2025-05-07 14:09:41,485 - gmail_auto_response - DEBUG - Skipping 196ab1d82d84e184: already responded
+2025-05-07 14:09:41,486 - gmail_auto_response - DEBUG - Skipping 196ab0df42bb6b8a: notification/no-reply address (noreply)
+2025-05-07 14:09:41,486 - gmail_auto_response - INFO - Auto-response check complete. Would have sent 2 auto-responses.
+2025-05-07 14:16:27,222 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 14:16:27.222912
+2025-05-07 14:16:27,223 - gmail_auto_response - INFO - Running in TEST mode
+2025-05-07 14:16:27,224 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 14:16:27,225 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 14:16:36,343 - gmail_auto_response - INFO - Retrieved 30 recent emails
+2025-05-07 14:16:36,346 - gmail_auto_response - DEBUG - Email 196ac9579b3b3aeb classified as: general
+2025-05-07 14:16:36,346 - gmail_auto_response - INFO - Preparing to respond to: thevccorner@substack.com using general template
+2025-05-07 14:16:36,346 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to thevccorner@substack.com
+2025-05-07 14:16:36,347 - gmail_auto_response - DEBUG - Email 196ac8eb9d23f425 classified as: general
+2025-05-07 14:16:36,347 - gmail_auto_response - INFO - Preparing to respond to: givingcomms@our.berkeley.edu using general template
+2025-05-07 14:16:36,347 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to givingcomms@our.berkeley.edu
+2025-05-07 14:16:36,348 - gmail_auto_response - DEBUG - Email 196ac8d3309868c3 classified as: general
+2025-05-07 14:16:36,348 - gmail_auto_response - INFO - Preparing to respond to: Saucony@email.saucony.com using general template
+2025-05-07 14:16:36,348 - gmail_auto_response - INFO - TEST MODE: Would have sent general template to Saucony@email.saucony.com
+2025-05-07 14:16:36,348 - gmail_auto_response - DEBUG - Skipping 196ac8b7fafc558e: notification/no-reply address (mailer-daemon)
+2025-05-07 14:16:36,348 - gmail_auto_response - DEBUG - Skipping 196ac8b7bc86c41f: notification/no-reply address (postmaster)
+2025-05-07 14:16:36,349 - gmail_auto_response - DEBUG - Skipping 196ac8b6912eabcd: notification/no-reply address (mailer-daemon)
+2025-05-07 14:16:36,349 - gmail_auto_response - DEBUG - Skipping 196ac8b5024752e6: notification/no-reply address (mailer-daemon)
+2025-05-07 14:16:36,349 - gmail_auto_response - DEBUG - Skipping 196ac8b4ffe6b63e: notification/no-reply address (mailer-daemon)
+2025-05-07 14:16:36,349 - gmail_auto_response - DEBUG - Skipping 196ac8ad62ca67bf: already responded
+2025-05-07 14:16:36,349 - gmail_auto_response - DEBUG - Skipping 196ac87a1387bbaa: already responded
+2025-05-07 14:16:36,350 - gmail_auto_response - DEBUG - Skipping 196ac7d3de90d7fd: already responded
+2025-05-07 14:16:36,350 - gmail_auto_response - DEBUG - Skipping 196ac7200efc31a5: already responded
+2025-05-07 14:16:36,350 - gmail_auto_response - DEBUG - Skipping 196ac710e1722405: already responded
+2025-05-07 14:16:36,351 - gmail_auto_response - DEBUG - Skipping 196ac6bf538548b7: already responded
+2025-05-07 14:16:36,351 - gmail_auto_response - DEBUG - Skipping 196ac6a45cc845f1: already responded
+2025-05-07 14:16:36,351 - gmail_auto_response - DEBUG - Skipping 196ac66058665b09: already responded
+2025-05-07 14:16:36,351 - gmail_auto_response - DEBUG - Skipping 196ac5120b179835: already responded
+2025-05-07 14:16:36,351 - gmail_auto_response - DEBUG - Skipping 196abf2808a8fded: already responded
+2025-05-07 14:16:36,352 - gmail_auto_response - DEBUG - Skipping 196abd077cd598f5: already responded
+2025-05-07 14:16:36,352 - gmail_auto_response - DEBUG - Skipping 196abcd728af6c09: already responded
+2025-05-07 14:16:36,352 - gmail_auto_response - DEBUG - Skipping 196abca67105d53e: already responded
+2025-05-07 14:16:36,352 - gmail_auto_response - DEBUG - Skipping 196abc7554866d50: from excluded domain anablock.com
+2025-05-07 14:16:36,352 - gmail_auto_response - DEBUG - Skipping 196abc7539fa6619: from excluded domain anablock.com
+2025-05-07 14:16:36,352 - gmail_auto_response - DEBUG - Skipping 196abbf8381e8487: already responded
+2025-05-07 14:16:36,353 - gmail_auto_response - DEBUG - Skipping 196abb120e3df3f7: already responded
+2025-05-07 14:16:36,353 - gmail_auto_response - DEBUG - Skipping 196ab727cc8b0aff: already responded
+2025-05-07 14:16:36,353 - gmail_auto_response - DEBUG - Skipping 196ab5c34d567d00: already responded
+2025-05-07 14:16:36,353 - gmail_auto_response - DEBUG - Skipping 196ab53f6c928254: already responded
+2025-05-07 14:16:36,353 - gmail_auto_response - DEBUG - Skipping 196ab5190a6cf61a: already responded
+2025-05-07 14:16:36,353 - gmail_auto_response - DEBUG - Skipping 196ab1d82d84e184: already responded
+2025-05-07 14:16:36,353 - gmail_auto_response - INFO - Auto-response check complete. Would have sent 3 auto-responses.
+2025-05-07 14:18:43,285 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-07 14:18:43,288 - gmail_auto_response - INFO - Gmail service created successfully
+2025-05-07 14:18:54,259 - gmail_auto_response - INFO - Email sent, message ID: 196ac9da065ff58c
+2025-05-07 14:18:54,259 - gmail_test_single - INFO - Test email sent successfully! Message ID: 196ac9da065ff58c
+2025-05-07 14:18:54,259 - gmail_test_single - INFO - Tracking ID: 3f4da4f5-510a-4e6d-8cee-25b5f2adfa15
+2025-05-07 14:18:54,262 - gmail_test_single - INFO - Response recorded in database for analytics tracking
