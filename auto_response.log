@@ -6860,3 +6860,115 @@
 2025-05-10 10:35:11,016 - watchfiles.main - INFO - 1 change detected
 2025-05-10 10:35:11,495 - watchfiles.main - INFO - 3 changes detected
 2025-05-10 10:37:29,431 - watchfiles.main - INFO - 2 changes detected
+2025-05-10 10:37:37,187 - watchfiles.main - INFO - 15 changes detected
+2025-05-10 10:37:49,412 - watchfiles.main - INFO - 21 changes detected
+2025-05-10 10:38:11,569 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:38:11,935 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:38:12,348 - watchfiles.main - INFO - 4 changes detected
+2025-05-10 10:38:39,821 - watchfiles.main - INFO - 8 changes detected
+2025-05-10 10:38:40,185 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:38:50,097 - watchfiles.main - INFO - 7 changes detected
+2025-05-10 10:39:11,912 - watchfiles.main - INFO - 8 changes detected
+2025-05-10 10:39:12,275 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:39:15,231 - watchfiles.main - INFO - 7 changes detected
+2025-05-10 10:40:01,268 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:40:17,674 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:40:18,261 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:41:07,181 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:41:08,508 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:41:11,981 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:41:12,340 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:41:26,836 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:41:27,419 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:41:44,193 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:41:44,985 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:43:31,733 - watchfiles.main - INFO - 2 changes detected
+2025-05-10 10:44:12,462 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:44:12,928 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:45:21,494 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:45:48,784 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:47:03,764 - gmail_auto_response_api - INFO - Received run-auto-response request with data: dict_keys(['auth', 'max_responses', 'business_hours_only'])
+2025-05-10 10:47:03,766 - gmail_auto_response_api - INFO - Auth data received: client_id exists: True, client_secret exists: True, refresh_token exists: True
+2025-05-10 10:47:03,766 - gmail_auto_response_api - INFO - Configured auto-response with max_responses=20, business_hours_only=False
+2025-05-10 10:47:03,766 - gmail_auto_response_api - INFO - Attempting to refresh access token to validate credentials
+2025-05-10 10:47:04,019 - gmail_auto_response_api - INFO - Starting auto-response process in background task
+2025-05-10 10:47:04,027 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-10 10:47:04.027380
+2025-05-10 10:47:04,028 - gmail_auto_response - INFO - Database initialized successfully
+2025-05-10 10:47:08,975 - gmail_auto_response - INFO - Retrieved 30 recent emails
+2025-05-10 10:47:08,976 - gmail_auto_response - INFO - Skipping 196baf380c75ce78: matches notification pattern 'noreply' in sender address
+2025-05-10 10:47:08,976 - gmail_auto_response - INFO - Skipping 196baebc55d0c438: matches notification pattern 'noreply' in sender address
+2025-05-10 10:47:08,976 - gmail_auto_response - INFO - Skipping 196baa880ad6381e: matches notification pattern 'bulletin' in sender address
+2025-05-10 10:47:08,976 - gmail_auto_response - INFO - Skipping 196baa3abc5acd24: matches notification pattern 'no-reply' in sender address
+2025-05-10 10:47:08,977 - gmail_auto_response - INFO - Skipping 196baa3025701bd3: matches notification pattern 'notification' in sender address
+2025-05-10 10:47:08,977 - gmail_auto_response - INFO - Skipping 196ba828d3908832: matches notification pattern 'salesforce' in sender address
+2025-05-10 10:47:08,977 - gmail_auto_response - INFO - Skipping 196b890d307b07ed: matches notification pattern 'mailer-daemon' in sender address
+2025-05-10 10:47:08,977 - gmail_auto_response - INFO - Skipping 196b890c76151b26: matches notification pattern 'mailer-daemon' in sender address
+2025-05-10 10:47:08,977 - gmail_auto_response - INFO - Skipping 196b890c511c5fb7: matches notification pattern 'mailer-daemon' in sender address
+2025-05-10 10:47:08,977 - gmail_auto_response - INFO - Skipping 196b7fc596d0f3e4: matches notification pattern 'payment' in sender address
+2025-05-10 10:47:08,978 - gmail_auto_response - INFO - Skipping 196b7d7c0db5ce4d: matches notification pattern 'noreply' in sender address
+2025-05-10 10:47:08,978 - gmail_auto_response - INFO - Skipping 196b7c4cb647fac6: matches notification pattern 'donotreply' in sender address
+2025-05-10 10:47:08,978 - gmail_auto_response - INFO - Skipping 196b77f2f6aaf49d: matches notification pattern 'no-reply' in sender address
+2025-05-10 10:47:08,978 - gmail_auto_response - INFO - Skipping 196b748be2a1cfce: matches notification pattern 'donotreply' in sender address
+2025-05-10 10:47:08,978 - gmail_auto_response - INFO - Skipping 196b711287f5451c: matches notification pattern 'noreply' in sender address
+2025-05-10 10:47:08,978 - gmail_auto_response - INFO - Skipping 196b6dba3cb70280: matches notification pattern 'mailer-daemon' in sender address
+2025-05-10 10:47:08,978 - gmail_auto_response - INFO - Skipping 196b68efb38c328a: matches notification pattern 'noreply' in sender address
+2025-05-10 10:47:08,978 - gmail_auto_response - INFO - Skipping 196b6833f410d58f: matches notification pattern 'linkedin' in sender address
+2025-05-10 10:47:08,979 - gmail_auto_response - INFO - Skipping 196b67e082d9936b: matches notification pattern 'notification' in sender address
+2025-05-10 10:47:08,979 - gmail_auto_response - INFO - Auto-response check complete. Sent 0 responses.
+2025-05-10 10:47:25,051 - gmail_auto_response - ERROR - Error getting default template: no such column: is_default
+2025-05-10 10:47:25,052 - gmail_auto_response - ERROR - Error getting default template: no such column: is_default
+2025-05-10 10:47:59,316 - gmail_auto_response_api - ERROR - Error adding template: module 'auto_response' has no attribute 'save_template_to_db'
+2025-05-10 10:48:06,130 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:48:06,600 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:48:42,569 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:48:43,081 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:48:43,441 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:49:02,069 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:49:02,787 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:49:52,721 - gmail_auto_response - INFO - Added new template: Test 2
+2025-05-10 10:49:52,802 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:50:01,271 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:51:23,359 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:51:23,809 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:51:30,946 - watchfiles.main - INFO - 2 changes detected
+2025-05-10 10:51:34,984 - watchfiles.main - INFO - 23 changes detected
+2025-05-10 10:51:40,673 - watchfiles.main - INFO - 21 changes detected
+2025-05-10 10:51:44,652 - watchfiles.main - INFO - 4 changes detected
+2025-05-10 10:55:00,716 - gmail_auto_response_api - INFO - Received run-auto-response request with data: dict_keys(['auth', 'max_responses', 'business_hours_only'])
+2025-05-10 10:55:00,716 - gmail_auto_response_api - INFO - Auth data received: client_id exists: True, client_secret exists: True, refresh_token exists: True
+2025-05-10 10:55:00,716 - gmail_auto_response_api - INFO - Configured auto-response with max_responses=20, business_hours_only=False
+2025-05-10 10:55:00,716 - gmail_auto_response_api - INFO - Attempting to refresh access token to validate credentials
+2025-05-10 10:55:01,016 - gmail_auto_response_api - INFO - Starting auto-response process in background task
+2025-05-10 10:55:01,057 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-10 10:55:01.057181
+2025-05-10 10:55:01,059 - gmail_auto_response - INFO - Database initialized successfully
+2025-05-10 10:55:05,536 - gmail_auto_response - INFO - Retrieved 30 recent emails
+2025-05-10 10:55:05,996 - gmail_auto_response - INFO - Email sent, message ID: 196bb561e386fa7d
+2025-05-10 10:55:05,998 - gmail_auto_response - INFO - Auto-responded to email@email.etsy.com using general template
+2025-05-10 10:55:06,117 - watchfiles.main - INFO - 2 changes detected
+2025-05-10 10:55:06,454 - gmail_auto_response - INFO - Email sent, message ID: 196bb5620be00bb5
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Auto-responded to BestBuy@email.bestbuy.com using sales template
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196baf380c75ce78: matches notification pattern 'noreply' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196baebc55d0c438: matches notification pattern 'noreply' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196baa880ad6381e: matches notification pattern 'bulletin' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196baa3abc5acd24: matches notification pattern 'no-reply' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196baa3025701bd3: matches notification pattern 'notification' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196ba828d3908832: matches notification pattern 'salesforce' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196b890d307b07ed: matches notification pattern 'mailer-daemon' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196b890c76151b26: matches notification pattern 'mailer-daemon' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196b890c511c5fb7: matches notification pattern 'mailer-daemon' in sender address
+2025-05-10 10:55:06,456 - gmail_auto_response - INFO - Skipping 196b7fc596d0f3e4: matches notification pattern 'payment' in sender address
+2025-05-10 10:55:06,457 - gmail_auto_response - INFO - Skipping 196b7d7c0db5ce4d: matches notification pattern 'noreply' in sender address
+2025-05-10 10:55:06,457 - gmail_auto_response - INFO - Skipping 196b7c4cb647fac6: matches notification pattern 'donotreply' in sender address
+2025-05-10 10:55:06,457 - gmail_auto_response - INFO - Skipping 196b77f2f6aaf49d: matches notification pattern 'no-reply' in sender address
+2025-05-10 10:55:06,457 - gmail_auto_response - INFO - Skipping 196b748be2a1cfce: matches notification pattern 'donotreply' in sender address
+2025-05-10 10:55:06,457 - gmail_auto_response - INFO - Skipping 196b711287f5451c: matches notification pattern 'noreply' in sender address
+2025-05-10 10:55:06,457 - gmail_auto_response - INFO - Skipping 196b6dba3cb70280: matches notification pattern 'mailer-daemon' in sender address
+2025-05-10 10:55:06,457 - gmail_auto_response - INFO - Skipping 196b68efb38c328a: matches notification pattern 'noreply' in sender address
+2025-05-10 10:55:06,457 - gmail_auto_response - INFO - Auto-response check complete. Sent 2 responses.
+2025-05-10 10:55:06,524 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 10:55:07,117 - watchfiles.main - INFO - 1 change detected
+2025-05-10 10:55:07,707 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 11:00:01,430 - watchfiles.main - INFO - 1 change detected
+2025-05-10 11:04:19,790 - watchfiles.main - INFO - 1 change detected
+2025-05-10 11:04:20,256 - watchfiles.main - INFO - 3 changes detected
+2025-05-10 11:04:26,338 - watchfiles.main - INFO - 2 changes detected
