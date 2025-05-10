@@ -4,16 +4,17 @@
 
 A MCP (Model Context Protocol) server that provides get, send Gmails without local credential or token setup.
 
-<a href="https://glama.ai/mcp/servers/@baryhuang/mcp-headless-gmail">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/@baryhuang/mcp-headless-gmail/badge" alt="Headless Gmail Server MCP server" />
-</a>
+![Headless Gmail Server MCP server](https://glama.ai/mcp/servers/@baryhuang/mcp-headless-gmail/badge)
 
 ## Why MCP Headless Gmail Server?
+
 ### Critical Advantages
+
 - **Headless & Remote Operation**: Unlike other MCP Gmail solutions that require running outside of docker and local file access, this server can run completely headless in remote environments with no browser no local file access.
 - **Decoupled Architecture**: Any client can complete the OAuth flow independently, then pass credentials as context to this MCP server, creating a complete separation between credential storage and server implementation.
 
 ### Nice but not critical
+
 - **Focused Functionality**: In many use cases, especially for marketing applications, only Gmail access is needed without additional Google services like Calendar, making this focused implementation ideal.
 - **Docker-Ready**: Designed with containerization in mind for a well-isolated, environment-independent, one-click setup.
 - **Reliable Dependencies**: Built on the well-maintained google-api-python-client library.
@@ -31,6 +32,52 @@ A MCP (Model Context Protocol) server that provides get, send Gmails without loc
 - Python 3.10 or higher
 - Google API credentials (client ID, client secret, access token, and refresh token)
 
+## Credential Management
+
+### Obtaining Google OAuth Credentials
+
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/)
+2. Create a project (or select an existing one)
+3. Enable the Gmail API for your project
+4. Create OAuth 2.0 credentials (OAuth client ID)
+   - Application type: Web application
+   - Authorized redirect URIs: Add a URI where you'll handle the OAuth callback
+5. Note your Client ID and Client Secret
+
+### Template-Based Configuration
+
+This project provides several template files to help you manage credentials securely:
+
+1. **Environment Variables (.env)**: Copy `.env.template` to `.env` and add your credentials
+
+   ```bash
+   cp .env.template .env
+   # Then edit .env with your credentials
+   ```
+
+2. **Shell Script**: Use `set_credentials.sh.template` to create a script for setting credentials
+
+   ```bash
+   cp set_credentials.sh.template set_credentials.sh
+   chmod +x set_credentials.sh
+   # Edit set_credentials.sh with your credentials
+   source ./set_credentials.sh
+   ```
+
+3. **Python Script**: Use `get_token_from_json.py.template` for retrieving tokens from credential files
+
+   ```bash
+   cp get_token_from_json.py.template get_token_from_json.py
+   # Edit get_token_from_json.py with your credentials
+   ```
+
+### Security Best Practices
+
+- **Never commit credentials to version control**
+- All credential files (`.env`, `set_credentials.sh`, etc.) are in `.gitignore`
+- Use environment variables whenever possible instead of hardcoding credentials
+- For production, consider using a secrets manager service
+
 ## Installation
 
 ```bash
@@ -40,6 +87,8 @@ cd mcp-headless-gmail
 
 # Install dependencies
 pip install -e .
+
+# Set up your credentials using one of the template methods above
 ```
 
 ## Docker
@@ -55,7 +104,8 @@ docker build -t mcp-headless-gmail .
 
 You can configure Claude Desktop to use the Docker image by adding the following to your Claude configuration:
 
-docker
+docker:
+
 ```json
 {
   "mcpServers": {
@@ -72,7 +122,8 @@ docker
 }
 ```
 
-npm version
+npm version:
+
 ```json
 {
   "mcpServers": {
@@ -86,23 +137,24 @@ npm version
 }
 ```
 
-Note: With this configuration, you'll need to provide your Google API credentials in the tool calls as shown in the [Using the Tools](#using-the-tools) section. Gmail credentials are not passed as environment variables to maintain separation between credential storage and server implementation.
-
 ## Cross-Platform Publishing
 
 To publish the Docker image for multiple platforms, you can use the `docker buildx` command. Follow these steps:
 
 1. **Create a new builder instance** (if you haven't already):
+
    ```bash
    docker buildx create --use
    ```
 
 2. **Build and push the image for multiple platforms**:
+
    ```bash
    docker buildx build --platform linux/amd64,linux/arm64,linux/arm/v7 -t buryhuang/mcp-headless-gmail:latest --push .
    ```
 
 3. **Verify the image is available for the specified platforms**:
+
    ```bash
    docker buildx imagetools inspect buryhuang/mcp-headless-gmail:latest
    ```
@@ -124,6 +176,7 @@ When using an MCP client like Claude, you have two main ways to handle authentic
 #### Refreshing Tokens (First Step or When Tokens Expire)
 
 If you have both access and refresh tokens:
+
 ```json
 {
   "google_access_token": "your_access_token",
@@ -134,6 +187,7 @@ If you have both access and refresh tokens:
 ```
 
 If your access token has expired, you can refresh with just the refresh token:
+
 ```json
 {
   "google_refresh_token": "your_refresh_token",
@@ -157,6 +211,7 @@ Retrieves recent emails with the first 1k characters of each email body:
 ```
 
 Response includes:
+
 - Email metadata (id, threadId, from, to, subject, date, etc.)
 - First 1000 characters of the email body
 - `body_size_bytes`: Total size of the email body in bytes
@@ -185,6 +240,7 @@ You can also get email content by thread ID:
 ```
 
 The response includes:
+
 - A 1k chunk of the email body starting from the specified offset
 - `body_size_bytes`: Total size of the email body
 - `chunk_size`: Size of the returned chunk
@@ -199,24 +255,47 @@ To retrieve the entire email body of a long message, make sequential calls incre
   "google_access_token": "your_access_token",
   "to": "recipient@example.com",
   "subject": "Hello from MCP Gmail",
-  "body": "This is a test email sent via MCP Gmail server",
-  "html_body": "<p>This is a <strong>test email</strong> sent via MCP Gmail server</p>"
+  "body": "This is the email body in plain text",
+  "html_body": "<p>This is the <strong>HTML</strong> version of the email.</p>"
 }
 ```
 
-### Token Refresh Workflow
+The response includes the newly created message ID and thread ID.
 
-1. Start by calling the `gmail_refresh_token` tool with either:
-   - Your full credentials (access token, refresh token, client ID, and client secret), or
-   - Just your refresh token, client ID, and client secret if the access token has expired
-2. Use the returned new access token for subsequent API calls.
-3. If you get a response indicating token expiration, call the `gmail_refresh_token` tool again to get a new token.
+## Troubleshooting
 
-This approach simplifies most API calls by not requiring client credentials for every operation, while still enabling token refresh when needed.
+### Common Issues
 
-## Obtaining Google API Credentials
+#### Token Refresh Errors
 
-To obtain the required Google API credentials, follow these steps:
+If you encounter errors refreshing tokens:
+
+1. Verify your `client_id` and `client_secret` are correct
+2. Ensure your OAuth consent screen is properly configured
+3. Check that your refresh token has not been revoked
+
+#### Permission Issues
+
+If you receive permission errors when accessing Gmail:
+
+1. Make sure your OAuth consent screen includes the required Gmail scopes:
+   - `https://www.googleapis.com/auth/gmail.readonly` (for reading emails)
+   - `https://www.googleapis.com/auth/gmail.compose` (for sending emails)
+
+#### Authentication Flow Issues
+
+If you're having trouble with the initial OAuth flow:
+
+1. Use the provided `get_refresh_token.py.template` script as a starting point
+2. Ensure your redirect URI matches what you configured in Google Cloud Console
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 1. Go to the [Google Cloud Console](https://console.cloud.google.com/)
 2. Create a new project
@@ -235,7 +314,3 @@ This server implements automatic token refreshing. When your access token expire
 ## Security Note
 
 This server requires direct access to your Google API credentials. Always keep your tokens and credentials secure and never share them with untrusted parties.
-
-## License
-
-See the LICENSE file for details.

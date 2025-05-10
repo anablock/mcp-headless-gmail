@@ -40,3 +40,9 @@ Thumbs.db
 
 # Node
 node_modules/
+
+refresh_token_backup.txt
+set_credentials.sh
+get_token_from_json.py
+*.db
+*.log

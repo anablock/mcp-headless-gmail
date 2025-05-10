@@ -1,3 +1,8 @@
 2025-05-07 13:57:10,911 - email_tracking_server - INFO - Database tables verified
 2025-05-07 13:57:10,913 - email_tracking_server - INFO - Starting tracking server on port 8000
 2025-05-07 15:59:06,070 - email_tracking_server - INFO - Stopping server due to keyboard interrupt
+2025-05-08 19:30:40,213 - email_tracking_server - INFO - Database tables verified
+2025-05-08 19:30:40,219 - email_tracking_server - INFO - Starting tracking server on port 8000
+2025-05-08 19:42:57,570 - email_tracking_server - INFO - Stopping server due to keyboard interrupt
+2025-05-09 20:39:06,281 - email_tracking_server - INFO - Database tables verified
+2025-05-09 20:39:06,289 - email_tracking_server - INFO - Starting tracking server on port 8000

@@ -1,0 +1,52 @@
+#!/usr/bin/env python
+"""
+Template for retrieving OAuth tokens from a credentials file.
+Copy this file to get_token_from_json.py and add your credentials.
+"""
+
+import json
+import os
+
+# Your Google OAuth client ID
+CLIENT_ID = "YOUR_CLIENT_ID_HERE"
+
+# Your Google OAuth client secret
+CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE"
+
+def load_credentials(json_file_path):
+    """Load credentials from a JSON file."""
+    try:
+        with open(json_file_path, 'r') as file:
+            credentials = json.load(file)
+        return credentials
+    except Exception as e:
+        print(f"Error loading credentials: {e}")
+        return None
+
+def main():
+    # Path to your credentials.json file (from Google Cloud Console)
+    credentials_file = os.environ.get("GOOGLE_CREDENTIALS_FILE", "credentials.json")
+    
+    # Load credentials
+    credentials = load_credentials(credentials_file)
+    if not credentials:
+        print("Failed to load credentials")
+        return
+    
+    # Extract tokens
+    tokens = credentials.get("installed", {})
+    refresh_token = tokens.get("refresh_token")
+    access_token = tokens.get("access_token")
+    
+    if refresh_token:
+        print(f"Refresh Token: {refresh_token}")
+    else:
+        print("No refresh token found")
+        
+    if access_token:
+        print(f"Access Token: {access_token}")
+    else:
+        print("No access token found")
+
+if __name__ == "__main__":
+    main()

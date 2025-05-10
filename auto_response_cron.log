@@ -43,3 +43,980 @@
 2025-05-07 16:00:00,885 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 16:00:00.885430
 2025-05-07 16:00:00,888 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
 2025-05-07 16:00:00,888 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 16:10:00,723 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 16:10:00.723808
+2025-05-07 16:10:00,728 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 16:10:00,728 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 16:20:02,080 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 16:20:02.080605
+2025-05-07 16:20:02,086 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 16:20:02,087 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 16:30:01,180 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 16:30:01.180601
+2025-05-07 16:30:01,186 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 16:30:01,186 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 16:40:01,073 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 16:40:01.073416
+2025-05-07 16:40:01,077 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 16:40:01,077 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 16:50:00,319 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 16:50:00.319765
+2025-05-07 16:50:00,338 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 16:50:00,338 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 17:00:01,171 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 17:00:01.170997
+2025-05-07 17:00:01,175 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 17:00:01,175 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 17:10:01,116 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 17:10:01.116359
+2025-05-07 17:10:01,123 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 17:10:01,123 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 17:20:00,999 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 17:20:00.999037
+2025-05-07 17:20:01,003 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 17:20:01,003 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 17:30:00,998 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 17:30:00.998049
+2025-05-07 17:30:01,002 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 17:30:01,002 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 17:40:00,931 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 17:40:00.931012
+2025-05-07 17:40:00,934 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 17:40:00,935 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 17:50:01,086 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 17:50:01.085634
+2025-05-07 17:50:01,095 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 17:50:01,095 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 18:00:01,090 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 18:00:01.090614
+2025-05-07 18:00:01,095 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 18:00:01,095 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 18:10:01,240 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 18:10:01.240010
+2025-05-07 18:10:01,247 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 18:10:01,248 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 18:20:01,467 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 18:20:01.467001
+2025-05-07 18:20:01,496 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 18:20:01,496 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 18:30:00,517 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 18:30:00.517608
+2025-05-07 18:30:00,523 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 18:30:00,523 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 18:40:00,525 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 18:40:00.525431
+2025-05-07 18:40:00,531 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 18:40:00,531 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 18:50:00,471 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 18:50:00.471621
+2025-05-07 18:50:00,476 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 18:50:00,476 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 19:00:00,470 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 19:00:00.470467
+2025-05-07 19:00:00,474 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 19:00:00,474 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 19:10:00,536 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 19:10:00.536020
+2025-05-07 19:10:00,543 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 19:10:00,544 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 19:20:00,578 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 19:20:00.578419
+2025-05-07 19:20:00,584 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 19:20:00,585 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 19:30:00,576 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 19:30:00.576349
+2025-05-07 19:30:00,583 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 19:30:00,584 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 19:40:00,735 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 19:40:00.735168
+2025-05-07 19:40:00,751 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 19:40:00,751 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 19:50:00,618 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 19:50:00.618183
+2025-05-07 19:50:00,624 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 19:50:00,624 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 20:00:00,662 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 20:00:00.662027
+2025-05-07 20:00:00,666 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 20:00:00,667 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 20:10:00,668 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 20:10:00.668666
+2025-05-07 20:10:00,675 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 20:10:00,676 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 20:20:00,743 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 20:20:00.743810
+2025-05-07 20:20:00,750 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 20:20:00,750 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 20:30:00,731 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 20:30:00.731184
+2025-05-07 20:30:00,737 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 20:30:00,738 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 20:40:00,646 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 20:40:00.646270
+2025-05-07 20:40:00,661 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 20:40:00,661 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 20:50:00,548 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 20:50:00.548674
+2025-05-07 20:50:00,553 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 20:50:00,553 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 21:00:01,656 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 21:00:01.656407
+2025-05-07 21:00:01,660 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 21:00:01,660 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 21:10:00,529 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 21:10:00.529791
+2025-05-07 21:10:00,534 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 21:10:00,534 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 21:20:00,476 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 21:20:00.476324
+2025-05-07 21:20:00,480 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 21:20:00,480 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 21:30:00,949 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 21:30:00.949413
+2025-05-07 21:30:00,953 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 21:30:00,953 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 21:40:00,820 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 21:40:00.820348
+2025-05-07 21:40:00,826 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 21:40:00,826 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 21:50:00,760 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 21:50:00.760521
+2025-05-07 21:50:00,765 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 21:50:00,765 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 22:00:00,844 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 22:00:00.844766
+2025-05-07 22:00:00,848 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 22:00:00,848 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 22:10:01,060 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 22:10:01.060373
+2025-05-07 22:10:01,064 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 22:10:01,064 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 22:20:01,084 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 22:20:01.084047
+2025-05-07 22:20:01,090 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 22:20:01,090 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 22:30:01,171 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 22:30:01.171876
+2025-05-07 22:30:01,177 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 22:30:01,177 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 22:40:02,613 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 22:40:02.612830
+2025-05-07 22:40:02,704 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 22:40:02,704 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 22:50:00,626 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 22:50:00.626882
+2025-05-07 22:50:00,632 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 22:50:00,632 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 23:00:01,381 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 23:00:01.381632
+2025-05-07 23:00:01,409 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 23:00:01,410 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 23:10:01,345 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 23:10:01.345475
+2025-05-07 23:10:01,349 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 23:10:01,349 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 23:20:00,550 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 23:20:00.550919
+2025-05-07 23:20:00,555 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 23:20:00,555 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 23:30:00,473 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 23:30:00.473848
+2025-05-07 23:30:00,482 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 23:30:00,483 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 23:40:00,467 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 23:40:00.467701
+2025-05-07 23:40:00,472 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 23:40:00,472 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-07 23:50:00,739 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-07 23:50:00.739047
+2025-05-07 23:50:00,752 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-07 23:50:00,752 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 00:00:03,009 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 00:00:03.009069
+2025-05-08 00:00:03,018 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 00:00:03,018 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 00:10:01,113 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 00:10:01.113017
+2025-05-08 00:10:01,115 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 00:10:01,116 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 00:20:01,360 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 00:20:01.359952
+2025-05-08 00:20:01,366 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 00:20:01,366 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 00:30:00,982 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 00:30:00.982628
+2025-05-08 00:30:00,986 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 00:30:00,986 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 00:40:00,756 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 00:40:00.756519
+2025-05-08 00:40:00,762 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 00:40:00,762 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 00:50:00,546 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 00:50:00.546498
+2025-05-08 00:50:00,551 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 00:50:00,551 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 01:00:01,150 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 01:00:01.150606
+2025-05-08 01:00:01,155 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 01:00:01,156 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 01:10:00,771 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 01:10:00.771165
+2025-05-08 01:10:00,778 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 01:10:00,778 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 01:20:00,541 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 01:20:00.541891
+2025-05-08 01:20:00,548 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 01:20:00,548 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 01:30:01,216 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 01:30:01.216583
+2025-05-08 01:30:01,221 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 01:30:01,221 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 01:40:00,803 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 01:40:00.803778
+2025-05-08 01:40:00,807 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 01:40:00,807 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 01:50:00,719 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 01:50:00.719252
+2025-05-08 01:50:00,723 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 01:50:00,723 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 02:00:01,321 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 02:00:01.321310
+2025-05-08 02:00:01,326 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 02:00:01,326 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 02:10:01,011 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 02:10:01.011941
+2025-05-08 02:10:01,016 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 02:10:01,017 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 02:20:00,660 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 02:20:00.659973
+2025-05-08 02:20:00,664 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 02:20:00,664 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 02:30:01,310 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 02:30:01.310002
+2025-05-08 02:30:01,314 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 02:30:01,314 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 02:40:00,876 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 02:40:00.876396
+2025-05-08 02:40:00,882 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 02:40:00,882 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 02:50:00,729 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 02:50:00.729034
+2025-05-08 02:50:00,735 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 02:50:00,735 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 03:00:01,342 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 03:00:01.342943
+2025-05-08 03:00:01,348 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 03:00:01,349 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 03:10:01,034 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 03:10:01.034521
+2025-05-08 03:10:01,052 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 03:10:01,053 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 03:20:00,560 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 03:20:00.560546
+2025-05-08 03:20:00,566 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 03:20:00,566 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 03:30:01,232 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 03:30:01.231954
+2025-05-08 03:30:01,238 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 03:30:01,238 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 03:40:00,898 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 03:40:00.898609
+2025-05-08 03:40:00,905 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 03:40:00,905 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 03:50:00,506 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 03:50:00.506042
+2025-05-08 03:50:00,512 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 03:50:00,512 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 04:00:01,135 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 04:00:01.135392
+2025-05-08 04:00:01,140 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 04:00:01,140 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 04:10:00,805 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 04:10:00.805079
+2025-05-08 04:10:00,811 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 04:10:00,811 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 04:20:01,346 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 04:20:01.346629
+2025-05-08 04:20:01,352 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 04:20:01,352 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 04:30:00,988 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 04:30:00.988797
+2025-05-08 04:30:00,994 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 04:30:00,995 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 04:40:00,615 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 04:40:00.615313
+2025-05-08 04:40:00,621 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 04:40:00,621 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 04:50:01,443 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 04:50:01.443731
+2025-05-08 04:50:01,450 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 04:50:01,450 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 05:00:01,007 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 05:00:01.007307
+2025-05-08 05:00:01,013 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 05:00:01,013 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 05:10:00,764 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 05:10:00.764889
+2025-05-08 05:10:00,771 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 05:10:00,771 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 05:20:00,440 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 05:20:00.440376
+2025-05-08 05:20:00,446 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 05:20:00,446 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 05:30:01,135 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 05:30:01.135150
+2025-05-08 05:30:01,154 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 05:30:01,154 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 05:40:00,777 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 05:40:00.777644
+2025-05-08 05:40:00,783 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 05:40:00,783 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 05:50:00,403 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 05:50:00.403372
+2025-05-08 05:50:00,407 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 05:50:00,407 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 06:00:01,115 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 06:00:01.115380
+2025-05-08 06:00:01,118 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 06:00:01,118 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 06:10:00,695 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 06:10:00.695551
+2025-05-08 06:10:00,701 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 06:10:00,701 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 06:20:01,233 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 06:20:01.233060
+2025-05-08 06:20:01,238 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 06:20:01,238 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 06:30:00,933 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 06:30:00.933468
+2025-05-08 06:30:00,939 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 06:30:00,939 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 06:40:00,510 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 06:40:00.510737
+2025-05-08 06:40:00,516 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 06:40:00,516 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 06:50:01,141 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 06:50:01.141267
+2025-05-08 06:50:01,145 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 06:50:01,145 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 07:00:00,689 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 07:00:00.689690
+2025-05-08 07:00:00,695 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 07:00:00,696 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 07:10:00,839 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 07:10:00.839751
+2025-05-08 07:10:00,844 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 07:10:00,844 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 07:20:00,815 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 07:20:00.815764
+2025-05-08 07:20:00,820 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 07:20:00,821 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 07:30:00,856 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 07:30:00.855995
+2025-05-08 07:30:00,862 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 07:30:00,862 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 07:40:00,883 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 07:40:00.883936
+2025-05-08 07:40:00,889 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 07:40:00,889 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 07:50:01,180 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 07:50:01.180139
+2025-05-08 07:50:01,187 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 07:50:01,188 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 08:00:00,663 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 08:00:00.663708
+2025-05-08 08:00:00,670 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 08:00:00,671 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 08:10:00,875 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 08:10:00.875798
+2025-05-08 08:10:00,882 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 08:10:00,882 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 08:20:01,180 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 08:20:01.180696
+2025-05-08 08:20:01,187 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 08:20:01,187 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 08:30:01,106 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 08:30:01.106521
+2025-05-08 08:30:01,111 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 08:30:01,111 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 08:40:01,047 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 08:40:01.047341
+2025-05-08 08:40:01,054 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 08:40:01,054 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 08:50:01,056 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 08:50:01.056617
+2025-05-08 08:50:01,061 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 08:50:01,061 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 09:00:01,202 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 09:00:01.202117
+2025-05-08 09:00:01,207 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 09:00:01,207 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 09:10:00,980 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 09:10:00.980766
+2025-05-08 09:10:00,987 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 09:10:00,987 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 09:20:01,339 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 09:20:01.339441
+2025-05-08 09:20:01,396 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 09:20:01,396 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 09:30:03,026 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 09:30:03.026401
+2025-05-08 09:30:03,032 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 09:30:03,032 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 09:40:01,110 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 09:40:01.110674
+2025-05-08 09:40:01,156 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 09:40:01,156 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 09:50:00,302 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 09:50:00.302537
+2025-05-08 09:50:00,320 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 09:50:00,320 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 10:00:00,307 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 10:00:00.307060
+2025-05-08 10:00:00,312 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 10:00:00,313 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 10:10:01,292 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 10:10:01.291999
+2025-05-08 10:10:01,298 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 10:10:01,298 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 10:20:00,896 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 10:20:00.896617
+2025-05-08 10:20:00,915 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 10:20:00,915 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 10:30:00,488 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 10:30:00.488870
+2025-05-08 10:30:00,494 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 10:30:00,494 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 10:40:01,052 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 10:40:01.052569
+2025-05-08 10:40:01,058 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 10:40:01,058 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 10:50:00,700 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 10:50:00.700940
+2025-05-08 10:50:00,706 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 10:50:00,706 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 11:00:01,309 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 11:00:01.309076
+2025-05-08 11:00:01,314 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 11:00:01,314 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 11:10:00,900 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 11:10:00.900138
+2025-05-08 11:10:00,906 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 11:10:00,906 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 11:20:00,487 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 11:20:00.487461
+2025-05-08 11:20:00,494 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 11:20:00,494 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 11:30:01,272 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 11:30:01.272861
+2025-05-08 11:30:01,277 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 11:30:01,278 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 11:40:01,233 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 11:40:01.233712
+2025-05-08 11:40:01,239 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 11:40:01,240 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 11:50:01,082 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 11:50:01.082804
+2025-05-08 11:50:01,087 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 11:50:01,087 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 12:00:01,257 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 12:00:01.257361
+2025-05-08 12:00:01,261 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 12:00:01,262 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 12:10:01,164 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 12:10:01.164417
+2025-05-08 12:10:01,169 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 12:10:01,169 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 12:20:01,131 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 12:20:01.131663
+2025-05-08 12:20:01,135 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 12:20:01,135 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 12:30:01,131 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 12:30:01.131687
+2025-05-08 12:30:01,140 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 12:30:01,141 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 12:40:01,096 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 12:40:01.096275
+2025-05-08 12:40:01,098 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 12:40:01,099 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 12:50:00,992 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 12:50:00.992756
+2025-05-08 12:50:00,998 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 12:50:00,998 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 13:00:01,028 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 13:00:01.028407
+2025-05-08 13:00:01,065 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 13:00:01,065 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 13:10:01,110 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 13:10:01.110853
+2025-05-08 13:10:01,114 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 13:10:01,114 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 13:20:01,270 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 13:20:01.270939
+2025-05-08 13:20:01,274 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 13:20:01,274 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 13:30:01,204 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 13:30:01.204425
+2025-05-08 13:30:01,209 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 13:30:01,209 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 13:40:01,883 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 13:40:01.883077
+2025-05-08 13:40:01,887 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 13:40:01,887 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 13:50:00,773 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 13:50:00.773437
+2025-05-08 13:50:00,780 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 13:50:00,780 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 14:00:00,551 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 14:00:00.551502
+2025-05-08 14:00:00,554 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 14:00:00,554 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 14:10:01,177 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 14:10:01.177570
+2025-05-08 14:10:01,180 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 14:10:01,180 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 14:20:00,410 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 14:20:00.410422
+2025-05-08 14:20:00,420 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 14:20:00,420 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 14:30:00,404 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 14:30:00.404145
+2025-05-08 14:30:00,407 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 14:30:00,407 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 14:40:00,325 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 14:40:00.325395
+2025-05-08 14:40:00,329 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 14:40:00,329 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 14:50:01,250 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 14:50:01.250484
+2025-05-08 14:50:01,255 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 14:50:01,255 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 15:00:00,914 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 15:00:00.914773
+2025-05-08 15:00:00,924 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 15:00:00,924 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 15:10:00,716 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 15:10:00.716310
+2025-05-08 15:10:00,731 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 15:10:00,732 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 15:20:01,284 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 15:20:01.284902
+2025-05-08 15:20:01,290 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 15:20:01,290 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 15:30:00,680 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 15:30:00.680788
+2025-05-08 15:30:00,686 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 15:30:00,686 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 15:40:00,578 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 15:40:00.578676
+2025-05-08 15:40:00,581 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 15:40:00,581 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 15:50:00,665 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 15:50:00.665118
+2025-05-08 15:50:00,669 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 15:50:00,669 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 16:00:00,571 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 16:00:00.571915
+2025-05-08 16:00:00,578 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 16:00:00,578 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 16:10:00,845 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 16:10:00.845301
+2025-05-08 16:10:00,852 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 16:10:00,852 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 16:20:00,358 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 16:20:00.358376
+2025-05-08 16:20:00,362 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 16:20:00,362 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 16:30:00,262 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 16:30:00.262070
+2025-05-08 16:30:00,266 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 16:30:00,266 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 16:40:01,149 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 16:40:01.149309
+2025-05-08 16:40:01,157 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 16:40:01,157 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 16:50:00,413 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 16:50:00.413052
+2025-05-08 16:50:00,419 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 16:50:00,419 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 17:00:00,653 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 17:00:00.653259
+2025-05-08 17:00:00,661 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 17:00:00,661 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 17:10:00,648 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 17:10:00.648427
+2025-05-08 17:10:00,651 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 17:10:00,651 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 17:20:00,574 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 17:20:00.574644
+2025-05-08 17:20:00,582 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 17:20:00,582 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 17:30:00,364 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 17:30:00.364568
+2025-05-08 17:30:00,368 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 17:30:00,369 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 17:40:01,048 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 17:40:01.048115
+2025-05-08 17:40:01,052 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 17:40:01,052 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 17:50:01,102 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 17:50:01.102570
+2025-05-08 17:50:01,116 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 17:50:01,117 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 18:00:02,450 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 18:00:02.450444
+2025-05-08 18:00:02,499 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 18:00:02,499 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 18:10:00,491 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 18:10:00.491783
+2025-05-08 18:10:00,522 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 18:10:00,525 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 18:20:01,236 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 18:20:01.236269
+2025-05-08 18:20:01,241 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 18:20:01,241 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 18:30:01,097 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 18:30:01.097169
+2025-05-08 18:30:01,102 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 18:30:01,102 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 18:40:00,929 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 18:40:00.929177
+2025-05-08 18:40:00,935 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 18:40:00,935 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 18:50:00,966 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 18:50:00.966058
+2025-05-08 18:50:00,971 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 18:50:00,971 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 19:00:01,202 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 19:00:01.202484
+2025-05-08 19:00:01,206 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 19:00:01,206 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 19:10:02,097 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 19:10:02.097008
+2025-05-08 19:10:02,101 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 19:10:02,101 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 19:20:04,904 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 19:20:04.904477
+2025-05-08 19:20:05,232 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 19:20:05,232 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 19:30:01,446 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 19:30:01.445964
+2025-05-08 19:30:01,459 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 19:30:01,459 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 19:40:00,535 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 19:40:00.535342
+2025-05-08 19:40:00,542 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 19:40:00,542 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 19:50:00,478 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 19:50:00.478408
+2025-05-08 19:50:00,483 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 19:50:00,483 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 20:00:00,390 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 20:00:00.390883
+2025-05-08 20:00:00,396 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 20:00:00,397 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 20:10:00,561 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 20:10:00.561038
+2025-05-08 20:10:00,564 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 20:10:00,564 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 20:20:01,141 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 20:20:01.141467
+2025-05-08 20:20:01,146 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 20:20:01,147 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 20:30:00,738 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 20:30:00.738484
+2025-05-08 20:30:00,743 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 20:30:00,743 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 20:40:01,280 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 20:40:01.280704
+2025-05-08 20:40:01,283 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 20:40:01,283 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 20:50:00,515 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 20:50:00.515672
+2025-05-08 20:50:00,521 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 20:50:00,521 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 21:00:00,370 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 21:00:00.370943
+2025-05-08 21:00:00,376 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 21:00:00,377 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 21:10:00,341 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 21:10:00.341886
+2025-05-08 21:10:00,347 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 21:10:00,347 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 21:20:00,391 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 21:20:00.391512
+2025-05-08 21:20:00,396 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 21:20:00,396 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 21:30:00,332 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 21:30:00.332219
+2025-05-08 21:30:00,338 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 21:30:00,339 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 21:40:00,373 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 21:40:00.373564
+2025-05-08 21:40:00,379 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 21:40:00,379 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 21:50:01,205 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 21:50:01.205025
+2025-05-08 21:50:01,209 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 21:50:01,209 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 22:00:01,206 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 22:00:01.206357
+2025-05-08 22:00:01,210 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 22:00:01,211 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 22:10:01,182 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 22:10:01.182139
+2025-05-08 22:10:01,187 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 22:10:01,188 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 22:20:01,115 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 22:20:01.115595
+2025-05-08 22:20:01,121 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 22:20:01,121 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 22:30:00,865 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 22:30:00.865724
+2025-05-08 22:30:00,870 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 22:30:00,870 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 22:40:01,288 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 22:40:01.288676
+2025-05-08 22:40:01,293 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 22:40:01,293 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 22:50:00,965 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 22:50:00.965554
+2025-05-08 22:50:00,970 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 22:50:00,970 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 23:00:01,372 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 23:00:01.371974
+2025-05-08 23:00:01,376 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 23:00:01,376 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 23:10:00,775 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 23:10:00.775627
+2025-05-08 23:10:00,782 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 23:10:00,782 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 23:20:01,279 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 23:20:01.279156
+2025-05-08 23:20:01,282 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 23:20:01,282 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 23:30:00,537 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 23:30:00.537139
+2025-05-08 23:30:00,543 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 23:30:00,543 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 23:40:01,237 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 23:40:01.237107
+2025-05-08 23:40:01,246 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 23:40:01,246 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-08 23:50:00,911 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-08 23:50:00.911118
+2025-05-08 23:50:00,917 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-08 23:50:00,917 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 00:00:01,039 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 00:00:01.039220
+2025-05-09 00:00:01,045 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 00:00:01,045 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 00:10:00,643 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 00:10:00.643708
+2025-05-09 00:10:00,647 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 00:10:00,647 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 00:20:01,226 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 00:20:01.226328
+2025-05-09 00:20:01,232 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 00:20:01,232 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 00:30:00,881 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 00:30:00.880980
+2025-05-09 00:30:00,885 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 00:30:00,885 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 00:40:01,327 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 00:40:01.327621
+2025-05-09 00:40:01,332 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 00:40:01,333 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 00:50:00,924 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 00:50:00.924064
+2025-05-09 00:50:00,930 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 00:50:00,930 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 01:00:00,290 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 01:00:00.290009
+2025-05-09 01:00:00,294 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 01:00:00,295 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 01:10:00,751 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 01:10:00.751863
+2025-05-09 01:10:00,757 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 01:10:00,757 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 01:20:01,253 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 01:20:01.253424
+2025-05-09 01:20:01,259 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 01:20:01,259 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 01:30:00,924 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 01:30:00.924615
+2025-05-09 01:30:00,929 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 01:30:00,929 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 01:40:00,588 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 01:40:00.587969
+2025-05-09 01:40:00,592 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 01:40:00,592 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 01:50:01,172 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 01:50:01.172274
+2025-05-09 01:50:01,179 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 01:50:01,179 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 02:00:00,797 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 02:00:00.797641
+2025-05-09 02:00:00,802 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 02:00:00,802 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 02:10:00,484 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 02:10:00.484219
+2025-05-09 02:10:00,490 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 02:10:00,490 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 02:20:01,150 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 02:20:01.150937
+2025-05-09 02:20:01,156 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 02:20:01,157 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 02:30:00,767 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 02:30:00.767837
+2025-05-09 02:30:00,773 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 02:30:00,773 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 02:40:01,339 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 02:40:01.339784
+2025-05-09 02:40:01,344 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 02:40:01,344 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 02:50:00,931 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 02:50:00.931335
+2025-05-09 02:50:00,935 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 02:50:00,935 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 03:00:00,560 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 03:00:00.560850
+2025-05-09 03:00:00,565 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 03:00:00,565 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 03:10:01,024 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 03:10:01.024403
+2025-05-09 03:10:01,029 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 03:10:01,029 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 03:20:00,619 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 03:20:00.619357
+2025-05-09 03:20:00,625 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 03:20:00,625 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 03:30:01,277 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 03:30:01.277765
+2025-05-09 03:30:01,283 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 03:30:01,283 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 03:40:00,857 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 03:40:00.857759
+2025-05-09 03:40:00,862 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 03:40:00,862 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 03:50:00,487 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 03:50:00.487325
+2025-05-09 03:50:00,493 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 03:50:00,493 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 04:00:01,080 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 04:00:01.080558
+2025-05-09 04:00:01,097 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 04:00:01,098 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 04:10:00,621 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 04:10:00.621162
+2025-05-09 04:10:00,626 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 04:10:00,627 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 04:20:01,250 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 04:20:01.250732
+2025-05-09 04:20:01,257 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 04:20:01,257 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 04:30:00,925 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 04:30:00.925104
+2025-05-09 04:30:00,931 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 04:30:00,931 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 04:40:00,494 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 04:40:00.494504
+2025-05-09 04:40:00,500 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 04:40:00,500 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 04:50:01,014 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 04:50:01.014548
+2025-05-09 04:50:01,020 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 04:50:01,020 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 05:00:00,563 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 05:00:00.563349
+2025-05-09 05:00:00,569 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 05:00:00,569 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 05:10:01,265 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 05:10:01.265016
+2025-05-09 05:10:01,270 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 05:10:01,270 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 05:20:00,728 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 05:20:00.728374
+2025-05-09 05:20:00,734 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 05:20:00,735 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 05:30:01,295 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 05:30:01.295283
+2025-05-09 05:30:01,301 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 05:30:01,301 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 05:40:00,857 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 05:40:00.857922
+2025-05-09 05:40:00,861 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 05:40:00,861 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 05:50:00,503 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 05:50:00.503477
+2025-05-09 05:50:00,507 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 05:50:00,507 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 06:00:01,198 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 06:00:01.198743
+2025-05-09 06:00:01,202 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 06:00:01,203 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 06:10:00,762 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 06:10:00.762506
+2025-05-09 06:10:00,766 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 06:10:00,766 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 06:20:01,271 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 06:20:01.271044
+2025-05-09 06:20:01,276 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 06:20:01,276 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 06:30:00,881 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 06:30:00.881419
+2025-05-09 06:30:00,886 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 06:30:00,887 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 06:40:00,444 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 06:40:00.444526
+2025-05-09 06:40:00,448 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 06:40:00,448 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 06:50:00,538 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 06:50:00.538253
+2025-05-09 06:50:00,544 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 06:50:00,545 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 07:00:01,102 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 07:00:01.102522
+2025-05-09 07:00:01,108 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 07:00:01,108 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 07:10:00,752 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 07:10:00.752752
+2025-05-09 07:10:00,762 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 07:10:00,762 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 07:20:00,327 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 07:20:00.327335
+2025-05-09 07:20:00,333 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 07:20:00,333 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 07:30:00,941 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 07:30:00.941230
+2025-05-09 07:30:00,946 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 07:30:00,947 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 07:40:00,449 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 07:40:00.449729
+2025-05-09 07:40:00,455 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 07:40:00,455 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 07:50:01,005 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 07:50:01.005710
+2025-05-09 07:50:01,011 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 07:50:01,012 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 08:00:00,710 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 08:00:00.710679
+2025-05-09 08:00:00,716 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 08:00:00,717 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 08:10:01,172 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 08:10:01.172376
+2025-05-09 08:10:01,178 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 08:10:01,178 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 08:20:00,699 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 08:20:00.699657
+2025-05-09 08:20:00,705 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 08:20:00,705 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 08:30:01,320 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 08:30:01.320777
+2025-05-09 08:30:01,337 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 08:30:01,337 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 08:40:00,530 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 08:40:00.530421
+2025-05-09 08:40:00,534 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 08:40:00,534 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 08:50:00,410 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 08:50:00.409978
+2025-05-09 08:50:00,417 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 08:50:00,417 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 09:00:00,722 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 09:00:00.722299
+2025-05-09 09:00:00,727 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 09:00:00,727 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 09:30:00,863 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 09:30:00.863464
+2025-05-09 09:30:00,869 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 09:30:00,869 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 09:40:00,928 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 09:40:00.928688
+2025-05-09 09:40:00,938 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 09:40:00,939 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 09:50:00,541 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 09:50:00.541861
+2025-05-09 09:50:00,549 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 09:50:00,549 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 10:00:02,296 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 10:00:02.296243
+2025-05-09 10:00:02,307 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 10:00:02,308 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 10:10:00,515 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 10:10:00.515362
+2025-05-09 10:10:00,521 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 10:10:00,521 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 10:20:01,028 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 10:20:01.028870
+2025-05-09 10:20:01,056 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 10:20:01,057 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 10:30:00,932 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 10:30:00.931954
+2025-05-09 10:30:00,937 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 10:30:00,937 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 10:40:01,064 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 10:40:01.064172
+2025-05-09 10:40:01,069 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 10:40:01,070 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 10:50:00,783 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 10:50:00.783060
+2025-05-09 10:50:00,788 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 10:50:00,789 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 11:00:01,114 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 11:00:01.114396
+2025-05-09 11:00:01,121 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 11:00:01,121 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 11:10:00,346 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 11:10:00.346921
+2025-05-09 11:10:00,353 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 11:10:00,353 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 11:20:00,304 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 11:20:00.304713
+2025-05-09 11:20:00,310 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 11:20:00,311 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 11:30:00,573 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 11:30:00.573181
+2025-05-09 11:30:00,578 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 11:30:00,579 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 11:40:00,742 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 11:40:00.742513
+2025-05-09 11:40:00,748 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 11:40:00,748 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 11:50:00,870 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 11:50:00.870844
+2025-05-09 11:50:00,876 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 11:50:00,876 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 12:00:01,017 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 12:00:01.017680
+2025-05-09 12:00:01,023 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 12:00:01,023 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 12:10:00,460 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 12:10:00.460022
+2025-05-09 12:10:00,465 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 12:10:00,466 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 12:20:01,047 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 12:20:01.047550
+2025-05-09 12:20:01,053 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 12:20:01,053 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 12:40:00,850 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 12:40:00.849979
+2025-05-09 12:40:00,876 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 12:40:00,876 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 12:50:00,805 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 12:50:00.805959
+2025-05-09 12:50:00,811 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 12:50:00,812 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 13:00:00,664 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 13:00:00.664445
+2025-05-09 13:00:00,669 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 13:00:00,669 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 13:10:00,980 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 13:10:00.980273
+2025-05-09 13:10:00,985 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 13:10:00,985 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 13:20:01,082 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 13:20:01.082240
+2025-05-09 13:20:01,086 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 13:20:01,086 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 13:30:00,988 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 13:30:00.988795
+2025-05-09 13:30:00,996 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 13:30:00,996 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 13:40:00,920 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 13:40:00.920506
+2025-05-09 13:40:00,925 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 13:40:00,925 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 13:50:00,902 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 13:50:00.902738
+2025-05-09 13:50:00,908 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 13:50:00,909 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 14:00:00,851 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 14:00:00.851362
+2025-05-09 14:00:00,857 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 14:00:00,857 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 14:10:00,806 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 14:10:00.805928
+2025-05-09 14:10:00,812 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 14:10:00,812 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 14:20:00,705 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 14:20:00.705151
+2025-05-09 14:20:00,709 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 14:20:00,710 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 14:30:00,580 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 14:30:00.580905
+2025-05-09 14:30:00,585 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 14:30:00,585 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 14:40:01,231 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 14:40:01.231919
+2025-05-09 14:40:01,238 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 14:40:01,238 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 14:50:00,458 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 14:50:00.457951
+2025-05-09 14:50:00,463 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 14:50:00,463 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 15:00:00,752 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 15:00:00.752817
+2025-05-09 15:00:00,756 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 15:00:00,757 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 15:10:00,689 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 15:10:00.689814
+2025-05-09 15:10:00,695 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 15:10:00,695 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 15:20:00,726 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 15:20:00.726448
+2025-05-09 15:20:00,770 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 15:20:00,770 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 15:30:00,662 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 15:30:00.662488
+2025-05-09 15:30:00,679 - gmail_auto_response - INFO - Loaded user configuration from database
+2025-05-09 15:30:00,682 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 15:30:00,682 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 15:40:00,571 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 15:40:00.571532
+2025-05-09 15:40:00,578 - gmail_auto_response - INFO - Loaded user configuration from database
+2025-05-09 15:40:00,578 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 15:40:00,578 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 15:50:00,389 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 15:50:00.389756
+2025-05-09 15:50:00,397 - gmail_auto_response - INFO - Loaded user configuration from database
+2025-05-09 15:50:00,397 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 15:50:00,397 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+2025-05-09 16:00:00,349 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 16:00:00.349719
+2025-05-09 16:00:00,352 - gmail_auto_response - INFO - Loaded user configuration from database
+2025-05-09 16:00:00,352 - gmail_auto_response - ERROR - Missing Google API credentials in environment variables
+2025-05-09 16:00:00,352 - gmail_auto_response - ERROR - Could not obtain access token. Exiting.
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 31
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 56
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 31
+    "subject": "Re: {subject    "founder": {
+                                 ^
+SyntaxError: invalid syntax
+2025-05-09 20:40:00,458 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 20:40:00.457973
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 471, in <module>
+    main()
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 386, in main
+    conn = init_db()
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 202, in init_db
+    for key, value in USER_CONFIG.items():
+NameError: name 'USER_CONFIG' is not defined
+2025-05-09 20:50:00,244 - gmail_auto_response - INFO - Starting auto-response check at 2025-05-09 20:50:00.244840
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 669, in <module>
+    main()
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 571, in main
+    conn = init_db()
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 316, in init_db
+    for key, value in USER_CONFIG.items():
+NameError: name 'USER_CONFIG' is not defined
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 15, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 15, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 15, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 18, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 18, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 18, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 18, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 18, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 20, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 20, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 20, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 20, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "/Users/vukdukic/Development/mcp-headless-gmail/auto_response.py", line 20, in <module>
+    from googleapiclient.discovery import build
+ModuleNotFoundError: No module named 'googleapiclient'
