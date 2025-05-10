@@ -22,6 +22,54 @@ A complete Gmail auto-response system built using the MCP Headless Gmail server.
 - Dynamic personalization
 - Custom tracking links for each response
 
+#### Template Selection Process
+
+The email template selection process works through a smart classification system defined in the `should_respond_to_email()` function. Here's how templates are selected:
+
+### Smart Template Selection
+
+When `USER_CONFIG.get("smart_template_selection", True)` is enabled, the system:
+
+1. Analyzes the combined text of the email subject and body
+2. Checks for keyword matches against predefined filters:
+
+```python
+# Checks for sales-related keywords
+for keyword in EMAIL_FILTERS["sales"]:
+    if keyword.lower() in combined_text:
+        return True, "sales"
+
+# Checks for meeting-related keywords
+for keyword in EMAIL_FILTERS["meeting"]:
+    if keyword.lower() in combined_text:
+        return True, "meeting"
+```
+
+### Default Template Selection
+
+If no specific template is matched through keywords (or if smart selection is disabled):
+
+```python
+# Use the default template if no keywords match or smart selection is disabled
+default_template = USER_CONFIG.get("default_template", "general")
+return True, default_template
+```
+
+The default template is determined by:
+
+1. The `default_template` value in `USER_CONFIG`
+2. Falls back to "general" if not specified
+
+### Available Templates
+
+The system includes three standard templates:
+
+1. **General template** - Used for most correspondence
+2. **Meeting template** - Used for meeting-related emails
+3. **Sales template** - Used for sales inquiries
+
+Templates can be customized through the web interface or by editing the database directly.
+
 ### Email Analytics
 - Tracks email opens using tracking pixels
 - Records link clicks

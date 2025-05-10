@@ -50,24 +50,22 @@ USER_CONFIG = {
 
 # No-reply and notification email patterns to exclude
 NOTIFICATION_PATTERNS = [
-    # Common no-reply patterns
-    "no-reply", "noreply", "do-not-reply", "donotreply", "donot-reply",
-    
-    # System addresses
-    "mailer-daemon", "postmaster", "listserv", "majordomo", "autoresponder",
-    "daemon", "bounce", "returned", "undeliverable", "delivery", "failure", 
-    
-    # Common notification senders
-    "notification", "alert", "update", "automated", "system", "service",
-    "confirm", "verify", "activate", "subscription", "security", "verify",
-    "authentication", "2fa", "automate", "auto", "confirm", "verify",
-    "team@", "hello@", "contact@", "welcome@", "business@", "community@",
-    
-    # Common service emails
-    "newsletter", "news@", "updates@", "info@", "support@", "help@",
-    "service@", "admin@", "account@", "billing@", "payments@", "orders@",
-    "order-", "shipping@", "customerservice@", "feedback@", "survey@",
-    "digest", "weekly", "daily", "monthly", "announcement", "broadcast",
+    "noreply", "no-reply", "do-not-reply", "donotreply",
+    "notification", "notify", "alert", "update", "info@", "news@",
+    "automated", "auto-confirm", "confirm@", "confirmation",
+    "newsletter", "marketing", "promotions", "special", "offers",
+    "announcement", "bulletin", "statement", "receipt", "invoice",
+    "billing", "payment", "transaction", "order", "shipping",
+    "delivery", "tracking", "support@", "help@", "service@",
+    "contact@", "feedback@", "customerservice", "sales@",
+    "webmaster@", "admin@", "team@", "mailer-daemon",
+    "postmaster", "bounce", "returnpath", "return-path",
+    "unsubscribe", "subscription", "welcome", "activation",
+    "verify", "verification", "security", "account",
+    "password", "signin", "login", "auth",
+    "report", "summary", "digest", "roundup", "substack", "salesforce",
+    "digital.costco.com", "email.mailwtatour.com", "email.mckinsey.com",
+    "weekly", "daily", "monthly", "announcement", "broadcast",
     
     # Common marketing emails
     "marketing@", "promotions@", "offers@", "sales@", "events@",
@@ -324,6 +322,28 @@ def refresh_access_token():
         logger.error(f"Error refreshing access token: {str(e)}")
         return None
 
+def get_default_template(conn=None, cursor=None):
+    """Get the default email template from the database."""
+    close_connection = False
+    try:
+        if conn is None or cursor is None:
+            conn = get_db_connection()
+            cursor = conn.cursor()
+            close_connection = True
+        
+        # Query for the default template
+        cursor.execute("SELECT template_type FROM email_templates WHERE is_default = 1 LIMIT 1")
+        result = cursor.fetchone()
+        
+        # Return default template type or fallback to "general"
+        return result[0] if result else "general"
+    except Exception as e:
+        logger.error(f"Error getting default template: {str(e)}")
+        return "general"
+    finally:
+        if close_connection and conn is not None:
+            conn.close()
+
 def get_all_templates_from_db(conn=None, cursor=None):
     """Get all email templates from the database."""
     close_connection = False
@@ -457,6 +477,53 @@ def load_templates_from_db(cursor):
                 "body": body,
                 "html_body": html_body
             }
+
+def save_template_to_db(template_type, subject, body, html_body, conn=None, cursor=None):
+    """Save or update an email template in the database."""
+    close_connection = False
+    try:
+        if conn is None or cursor is None:
+            conn = get_db_connection()
+            cursor = conn.cursor()
+            close_connection = True
+        
+        # Check if template already exists
+        cursor.execute("SELECT COUNT(*) FROM email_templates WHERE template_type = ?", (template_type,))
+        template_exists = cursor.fetchone()[0] > 0
+        
+        if template_exists:
+            # Update existing template
+            cursor.execute(
+                "UPDATE email_templates SET subject = ?, body = ?, html_body = ? WHERE template_type = ?",
+                (subject, body, html_body, template_type)
+            )
+            logger.info(f"Updated template: {template_type}")
+        else:
+            # Insert new template
+            cursor.execute(
+                "INSERT INTO email_templates (template_type, subject, body, html_body) VALUES (?, ?, ?, ?)",
+                (template_type, subject, body, html_body)
+            )
+            logger.info(f"Added new template: {template_type}")
+        
+        # Update in-memory template cache
+        global EMAIL_TEMPLATES
+        EMAIL_TEMPLATES[template_type] = {
+            "subject": subject,
+            "body": body,
+            "html_body": html_body
+        }
+        
+        conn.commit()
+        return True
+    except Exception as e:
+        logger.error(f"Error saving template to database: {str(e)}")
+        if conn is not None:
+            conn.rollback()
+        return False
+    finally:
+        if close_connection and conn is not None:
+            conn.close()
 
 def research_sender(sender_name, sender_email):
     """Use AI to research information about the sender for personalization."""
