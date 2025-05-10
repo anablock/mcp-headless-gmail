@@ -1,0 +1,25 @@
+{
+  "name": "Gmail Auto-Response MCP Server",
+  "description": "A headless Gmail auto-response system following MCP architecture",
+  "repository": "https://github.com/yourusername/mcp-headless-gmail",
+  "keywords": ["python", "fastapi", "gmail", "api", "mcp"],
+  "env": {
+    "GOOGLE_CLIENT_ID": {
+      "description": "Google OAuth Client ID"
+    },
+    "GOOGLE_CLIENT_SECRET": {
+      "description": "Google OAuth Client Secret"
+    },
+    "GOOGLE_REFRESH_TOKEN": {
+      "description": "Google OAuth Refresh Token"
+    }
+  },
+  "addons": [
+    "heroku-postgresql:hobby-dev"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
