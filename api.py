@@ -590,4 +590,6 @@ async def get_analytics():
 # Main entrypoint for running the API server
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("api:app", host="0.0.0.0", port=8001, reload=True)
+    import os
+    port = int(os.environ.get("PORT", 8001))
+    uvicorn.run("api:app", host="0.0.0.0", port=port, reload=False)
